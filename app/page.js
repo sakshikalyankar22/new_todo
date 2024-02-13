@@ -30,7 +30,7 @@ export default function Home() {
         />
       </div>
 
-      <div className="w-full flex justify-center items-center font-serif ">
+      <div className="w-full flex justify-center items-center font-serif text-black ">
         <p>Forget password?</p>
       </div>
 
